@@ -1,3 +1,5 @@
+//Version web
+
 const nombrePokemon = document.getElementById("pokeInput");
 const pokeBoton = document.getElementById("pokeBoton");
 const pokeLista = document.getElementById("listaPokemon");
